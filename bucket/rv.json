@@ -1,17 +1,17 @@
 {
-    "version": "0.8.1",
+    "version": "0.8.2",
     "description": "Herv\u00e9 pre-push CLI",
     "homepage": "https://app.herve.review",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
             "url": "https://app.herve.review/rv/releases/rv-x86_64-pc-windows-msvc.zip",
-            "hash": "e65c245d394cd9f5303c187a2ce6b7e0027aad59bf1c0e123e16f59aceaefc7b",
+            "hash": "81cb4af71ac6ed07c98a9c2b0b64e57fa16335b9827fb06971fb372a46634666",
             "extract_dir": "rv-x86_64-pc-windows-msvc"
         },
         "arm64": {
             "url": "https://app.herve.review/rv/releases/rv-aarch64-pc-windows-msvc.zip",
-            "hash": "79e03260931f15765a691aa5e6862fa08223d6c5091370dcdb247fcce7a5cf6e",
+            "hash": "85ee659516c4a6f3e1cc6729e631ff51af8aeb9719be1ff3def4682ab5660699",
             "extract_dir": "rv-aarch64-pc-windows-msvc"
         }
     },
